@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">开始录音(Start)</string>
+    <string name="stop">停止录音(Stop)</string>
+    <string name="play">听筒播放录音(Play)</string>
+
+</resources>
