@@ -217,8 +217,7 @@ public class MainActivity extends Activity {
 	}
 
 	/**
-	 * �Ƿ�֧�ֻ���������API�ĵ���ַ��http://android.toolib.net/reference/android/
-	 * media/ audiofx/AcousticEchoCanceler.html
+	 * 判断回声消除是否可用
 	 */
 	@SuppressLint("NewApi")
 	private static boolean isAECAailable() {
@@ -226,7 +225,7 @@ public class MainActivity extends Activity {
 	}
 
 	/**
-	 * �Ƿ�֧�־�������
+	 * 判断噪音抑制是否可用
 	 */
 	@SuppressLint("NewApi")
 	private static boolean isNSAvailable() {
